@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Modificación desde la rama main
+=======
+Archivo para ramas
+Modificación hecha en  rama nueva
+>>>>>>> nueva_rama
